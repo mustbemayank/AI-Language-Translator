@@ -2,6 +2,10 @@
 
 A desktop language translator built with Python, Tkinter, and Deep Translator.
 
+## 📸 Screenshot
+
+![AI Language Translator](screenshots/ss_1.png)
+
 ## Features
 
 * 🌎 Translate between multiple languages
